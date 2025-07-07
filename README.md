@@ -1,2 +1,2 @@
-# nvidia-dashboard
+# mockup-dashboard
 grupo3
